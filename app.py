@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 
-import ai.yml as ai.yml
+from ai.yml import ai.yml
 
 
 
