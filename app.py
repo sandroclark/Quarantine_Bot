@@ -9,8 +9,10 @@ app = Flask(__name__)
 
 english_bot = ChatBot("Chatterbot", storage_adapter="chatterbot.storage.SQLStorageAdapter")
 trainer = ChatterBotCorpusTrainer(english_bot)
-trainer.train("chatterbot.corpus.english.")
+trainer.train("/Users/sandro/Desktop/Projects/Covid_Projects/Chatterbot/ai.yml",
+                "chatterbot.corpus.english."
 
+              )
 @app.route("/")
 def home():
     return render_template("index.html")
