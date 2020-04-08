@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 english_bot = ChatBot("Chatterbot", storage_adapter="chatterbot.storage.SQLStorageAdapter")
 trainer = ChatterBotCorpusTrainer(english_bot)
-trainer.train("/Users/sandro/Desktop/Projects/Covid_Projects/Chatterbot/ai.yml",
+trainer.train(
                 "chatterbot.corpus.english."
 
               )
