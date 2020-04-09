@@ -5,10 +5,9 @@ gunicorn==19.9.0
 SQLAlchemy==1.2
 itsdangerous==1.1.0
 Jinja2==2.10.1
-nltk== 3.4.5
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 pytz==2019.3
-
+nltk== 3.4.5
 
 
