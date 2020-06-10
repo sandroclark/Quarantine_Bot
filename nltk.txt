@@ -1,1 +1,10 @@
-packages
+perluniprops
+mwa_ppdb
+punkt
+rslp
+porter_test
+snowball_data
+maxent_ne_chunker
+moses_sample
+corpus
+wordnet
