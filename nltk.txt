@@ -14,11 +14,8 @@ large_grammars
 book_grammars
 maxent_treebank_pos_tagger
 averaged_perceptron_tagger
-averaged_perceptron_tagger_ru
 universal_tagset
 vader_lexicon
-lin_thesaurus
-movie_reviews
 problem_reports
 pros_cons
 masc_tagged
@@ -26,7 +23,6 @@ sentence_polarity
 webtext
 nps_chat
 city_database
-europarl_raw
 biocreative_ppi
 verbnet3
 pe08
@@ -76,8 +72,6 @@ sinica_treebank
 opinion_lexicon
 ppattach
 dependency_treebank
-reuters
-genesis
 cess_esp
 conll2007
 nonbreaking_prefixes
@@ -89,7 +83,5 @@ panlex_swadesh
 conll2000
 universal_treebanks_v20
 brown_tei
-cmudict
-mte_teip5
 conll2002
 tagsets
