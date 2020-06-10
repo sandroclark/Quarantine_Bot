@@ -9,11 +9,11 @@ moses_sample
 bllip_wsj_no_aux
 word2vec_sample
 wmt15_eval
-spanish_grammars
+
 sample_grammars
 large_grammars
 book_grammars
-basque_grammars
+
 maxent_treebank_pos_tagger
 averaged_perceptron_tagger
 averaged_perceptron_tagger_ru
@@ -101,6 +101,6 @@ universal_treebanks_v20
 brown_tei
 cmudict
 mte_teip5
-indian
+
 conll2002
 tagsets
