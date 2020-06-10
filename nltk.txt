@@ -17,13 +17,11 @@ masc_tagged
 sentence_polarity
 webtext
 nps_chat
-city_database
 biocreative_ppi
 verbnet3
 pe08
 pil
 crubadan
-gutenberg
 propbank
 semcor
 ptb
@@ -55,7 +53,6 @@ paradigms
 gazetteers
 timit
 treebank
-sinica_treebank
 opinion_lexicon
 ppattach
 dependency_treebank
@@ -68,7 +65,6 @@ wordnet_ic
 brown
 panlex_swadesh
 conll2000
-universal_treebanks_v20
 brown_tei
 conll2002
 tagsets
