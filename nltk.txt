@@ -12,8 +12,6 @@ wmt15_eval
 sample_grammars
 large_grammars
 book_grammars
-maxent_treebank_pos_tagger
-averaged_perceptron_tagger
 universal_tagset
 vader_lexicon
 problem_reports
@@ -35,18 +33,12 @@ semcor
 names
 ptb
 nombank.1.0
-floresta
-comtrans
-knbc
-swadesh
-rte
 toolbox
 jeita
 product_reviews_1
 omw
 sentiwordnet
 product_reviews_2
-abc
 udhr2
 senseval
 words
