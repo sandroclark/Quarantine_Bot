@@ -9,11 +9,9 @@ moses_sample
 bllip_wsj_no_aux
 word2vec_sample
 wmt15_eval
-
 sample_grammars
 large_grammars
 book_grammars
-
 maxent_treebank_pos_tagger
 averaged_perceptron_tagger
 averaged_perceptron_tagger_ru
@@ -69,14 +67,12 @@ wordnet
 stopwords
 verbnet
 shakespeare
-ycoe
 ieer
 cess_cat
 switchboard
 comparative_sentences
 subjectivity
 udhr
-pl196x
 paradigms
 gazetteers
 timit
@@ -92,7 +88,6 @@ conll2007
 nonbreaking_prefixes
 dolch
 smultron
-alpino
 wordnet_ic
 brown
 panlex_swadesh
@@ -101,6 +96,5 @@ universal_treebanks_v20
 brown_tei
 cmudict
 mte_teip5
-
 conll2002
 tagsets
