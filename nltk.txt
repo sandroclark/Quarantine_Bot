@@ -35,8 +35,6 @@ crubadan
 gutenberg
 propbank
 machado
-state_union
-twitter_samples
 semcor
 names
 ptb
@@ -44,7 +42,6 @@ nombank.1.0
 floresta
 comtrans
 knbc
-mac_morpho
 swadesh
 rte
 toolbox
@@ -66,10 +63,8 @@ inaugural
 wordnet
 stopwords
 verbnet
-shakespeare
 ieer
 cess_cat
-switchboard
 comparative_sentences
 subjectivity
 udhr
